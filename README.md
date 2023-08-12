@@ -8,8 +8,8 @@ Basta iniciar o servidor Spring no arquivo: "src\main\java\com\startup\startup"
 
 Criar um banco de dados chamado: "crud_spring_boot" caso o banco selecionado possua uma senha ou um usuário especifico
 Deve-se alterar no arquivo: "application.yml" localizado em: "src\main\resources" nos campos:(
-username: root
-password: 123456
+username:
+password:
 ) 
 
 A aplicação irá criar às colunas utilizadas automaticamente no banco "crud_spring_boot"
