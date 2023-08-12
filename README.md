@@ -16,6 +16,7 @@ A aplicação irá criar às colunas utilizadas automaticamente no banco "crud_s
 
 feito iso basta utlizar o verbos e rotas abaixo:
 
+Rota principal: "/person"
 GET{id} - trás informações de apenas um usuário cadastrado no banco;
 GET - trás informação de todos os usuários cadastrados no banco;
 POST - Cria um usuário no banco (Enviar um JSON com às colunas usando o exemplo:
